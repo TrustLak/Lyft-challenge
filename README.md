@@ -1,2 +1,2 @@
-# Lyft-challenge
-Image segmentation challenge for a autonomous driving using Clara dataset
+# Symantic-segmentation-challenge
+Symantic segmentation challenge for a autonomous driving using Clara dataset
